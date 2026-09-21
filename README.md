@@ -12,9 +12,9 @@ Everyone in Nigeria *feels* the naira story. I wanted to *see* it: when did the 
 
 | Detail | Info |
 |---|---|
-| Source | [World Bank — Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=NG) |
+| Source | [World Bank — Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=NG) · raw file: [`API_PA.NUS.FCRF_DS2_en_csv_v2_404139.csv`](data-raw/API_PA.NUS.FCRF_DS2_en_csv_v2_404139.csv) |
 | Coverage | Nigeria, 1973–2025 (the naira was introduced in 1973; earlier values are in pounds) |
-| Granularity | Annual averages · Raw file untouched in `data-raw/` |
+| Granularity | Annual averages · Raw file untouched in [`data-raw/`](data-raw/) |
 
 ## Tools
 
@@ -59,7 +59,7 @@ A manufacturer importing raw materials pays in dollars: ~₦0.9/$ in 1985, ~₦1
 
 ## Reproduce
 
-Open `analysis/nigeria_exchange_rate.xlsx` in Excel or Google Sheets — all cleaning, formulas, and charts are in the workbook.
+Open [`analysis/nigeria_exchange_rate.xlsx`](analysis/nigeria_exchange_rate.xlsx) in Excel or Google Sheets — all cleaning, formulas, and charts are in the workbook.
 
 ## Author
 
