@@ -37,13 +37,13 @@ Google Sheets only — cleaning, a `% change` column, three charts. Deliberately
 ## Key Insights
 
 **1. The fall started in 1986 — with SAP.**
-For over a decade, one dollar cost less than one naira. That ended in 1986 when General Ibrahim Babangida's government introduced the Structural Adjustment Programme: market forces were allowed to price the naira for the first time. It fell ~95% that year, ~125% the next. Every later spike repeats the same pattern — an official rate held steady, then a sudden correction toward reality.
+For over a decade, one dollar cost less than one naira. That ended in 1986 when General Ibrahim Babangida's government introduced the Structural Adjustment Programme: market forces were allowed to price the naira for the first time. It fell 96.3% in 1986, then another 128.9% in 1987. Every later spike repeats the same pattern — an official rate held steady, then a sudden correction toward reality.
 
 **2. The worst year on record: 1999, ~+320%.**
 ₦22 → ~₦92 per dollar in twelve months — not an economic collapse, but the outgoing military government finally letting the official rate catch up with the street rate at the return to democracy. A dollar that cost ₦0.60 in 1979 cost ₦92 in 1999 — 155× more naira for the same dollar.
 
 **3. 2014–2016 was a replay, driven by oil.**
-Crude fell from ~$115 to under $30 a barrel. The Central Bank devalued twice, then moved to a flexible rate in 2016. Same script: hold, then break.
+Crude fell from ~$115 to under $30 a barrel. The Central Bank devalued twice, then moved to a flexible rate in 2016 (+21.4% in 2015, +31.9% in 2016). Same script: hold, then break.
 
 **4. 2023–2024 was different — a float, not a fix.**
 In June 2023 the CBN stopped defending the naira and let it float: **+51.5%** in 2023, **+129.2%** in 2024. Painful, but the first correction made by design rather than in a crisis.
